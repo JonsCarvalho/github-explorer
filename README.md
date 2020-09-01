@@ -3,7 +3,11 @@
 </h1>
 
 <h4 align="center">
-  Project developed in ReactJS using TypeScript, it consists of an application that consumes the [Github api][api] to show information about repositories.
+  Project developed in ReactJS using TypeScript, it consists of an application that consumes the
+
+  [Github api][api]
+
+   to show information about repositories.
 </h4>
 <p align="center">
 
