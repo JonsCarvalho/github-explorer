@@ -20,8 +20,8 @@
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
-  <a href="#aut-author">Author</a>
+  <a href="#memo-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#octocat-author">Author</a>
 </p>
 
 
@@ -65,9 +65,7 @@ $ yarn start
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/JonsCarvalho/github-explorer/blob/master/LICENSE.md) for more information.
 
-## :aut: Author
-
----
+## :octocat: Author
 
 <a href="https://github.com/JonsCarvalho/">
  <img style="border-radius: 50%;" src="https://instagram.fgnm3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/52681227_1093077257544412_4231522194413210212_n.jpg?_nc_ht=instagram.fgnm3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=40FEU5nRmAgAX_-2Dkq&oh=755023013cad1db081b9fc5b1d176850&oe=5F7954BA" width="100px;" alt=""/>
@@ -75,7 +73,8 @@ This project is under the MIT license. See the [LICENSE](https://github.com/Jons
  <sub><b>Jônatas Carvalho</b></sub>
 </a>
 
-Made with ♥ by Jônatas Moreira de Carvalho :wave:
+Made with :heart: by Jônatas Moreira de Carvalho :vulcan_salute:
+
 [![Facebook Badge](https://img.shields.io/badge/-Jônatas%20Carvalho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/J.o.n.a.t.a.s.C.a.r.v.a.l.h.o.w/)](https://www.facebook.com/J.o.n.a.t.a.s.C.a.r.v.a.l.h.o.w/) [![Instagram Badge](https://img.shields.io/badge/-@jonscarvalho-purple?style=flat-square&labelColor=purple&logo=instagram&logoColor=white&link=https://www.instagram.com/jonscarvalho/)](https://www.instagram.com/jonscarvalho/) [![Linkedin Badge](https://img.shields.io/badge/-Jônatas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonscarvalho/)](https://www.linkedin.com/in/jonscarvalho/) [![Gmail Badge](https://img.shields.io/badge/-jonatascarvalhow@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonatascarvalhow@gmail.com)](mailto:jonatascarvalhow@gmail.com)
 
 [yarn]: https://yarnpkg.com/
