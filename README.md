@@ -19,7 +19,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
+$ git clone <https://github.com/JonsCarvalho/github-explorer>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd github-explorer
@@ -32,6 +32,7 @@ $ yarn start
 
 # A aplicação inciará na porta:3000 - acesse <http://localhost:3000>
 ```
+
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -40,18 +41,17 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 
 ### Autor
+
 ---
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+<a href="https://instagram.fgnm3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/52681227_1093077257544412_4231522194413210212_n.jpg?_nc_ht=instagram.fgnm3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=40FEU5nRmAgAX_-2Dkq&oh=755023013cad1db081b9fc5b1d176850&oe=5F7954BA">
+ <img style="border-radius: 50%;" src="https://instagram.fgnm3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/52681227_1093077257544412_4231522194413210212_n.jpg?_nc_ht=instagram.fgnm3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=40FEU5nRmAgAX_-2Dkq&oh=755023013cad1db081b9fc5b1d176850&oe=5F7954BA" width="100px;" alt=""/>
  <br />
- <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
-
+ <sub><b>Jônatas Carvalho</b></sub></a>
 
 Feito com ❤️ por Jônatas Carvalho 👋🏽 Entre em contato!
 
-[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/jonscarvalho/)
-[![Outlook Badge](https://img.shields.io/badge/-jonatascarvalhow@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonatascarvalhow@gmail.com)](mailto:jonatascarvalhow@gmail.com)
-
+[![Facebook Badge](https://img.shields.io/badge/-Jônatas%20Carvalho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/J.o.n.a.t.a.s.C.a.r.v.a.l.h.o.w/)](https://www.facebook.com/J.o.n.a.t.a.s.C.a.r.v.a.l.h.o.w/) [![Linkedin Badge](https://img.shields.io/badge/-Jônatas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonscarvalho/)](https://www.linkedin.com/in/jonscarvalho/)
+[![Gmail Badge](https://img.shields.io/badge/-jonatascarvalhow@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonatascarvalhow@gmail.com)](mailto:jonatascarvalhow@gmail.com)
 
 <img alt="GitHub" src="https://img.shields.io/github/license/JonsCarvalho/github-explorer?style=plastic">
