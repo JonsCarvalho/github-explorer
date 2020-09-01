@@ -1,5 +1,5 @@
 <h1 align="center">Github Explorer</h1>
-<p align="center">Projeto desenvolvido em ReactJS utilizando TypeScript, consiste em uma aplicação que consome a api do Github para mostrar informações sobre repositórios.</p>
+<p align="center">Projeto desenvolvido em ReactJS utilizando TypeScript, consiste em uma aplicação que consome a [api do Github](https://api.github.com) para mostrar informações sobre repositórios.</p>
 
 <h1 align="center">
   <img alt="Banner00" title="Banner00" src="./src/assets/banner00.png" />
@@ -51,7 +51,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Feito com ❤️ por Jônatas Carvalho 👋🏽 Entre em contato!
 
-[![Facebook Badge](https://img.shields.io/badge/-Jônatas%20Carvalho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/J.o.n.a.t.a.s.C.a.r.v.a.l.h.o.w/)](https://www.facebook.com/J.o.n.a.t.a.s.C.a.r.v.a.l.h.o.w/) [![Linkedin Badge](https://img.shields.io/badge/-Jônatas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonscarvalho/)](https://www.linkedin.com/in/jonscarvalho/)
-[![Gmail Badge](https://img.shields.io/badge/-jonatascarvalhow@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonatascarvalhow@gmail.com)](mailto:jonatascarvalhow@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-Jônatas%20Carvalho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/J.o.n.a.t.a.s.C.a.r.v.a.l.h.o.w/)](https://www.facebook.com/J.o.n.a.t.a.s.C.a.r.v.a.l.h.o.w/) [![Instagram Badge](https://img.shields.io/badge/-@jonscarvalho-purple?style=flat-square&labelColor=purple&logo=instagram&logoColor=white&link=https://www.instagram.com/jonscarvalho/)](https://www.instagram.com/jonscarvalho/) [![Linkedin Badge](https://img.shields.io/badge/-Jônatas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonscarvalho/)](https://www.linkedin.com/in/jonscarvalho/)[![Gmail Badge](https://img.shields.io/badge/-jonatascarvalhow@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonatascarvalhow@gmail.com)](mailto:jonatascarvalhow@gmail.com)
 
 <img alt="GitHub" src="https://img.shields.io/github/license/JonsCarvalho/github-explorer?style=plastic">
